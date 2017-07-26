@@ -23,6 +23,6 @@ int main(){
 		if (v[i] > p){
 			p++;
 		}
-	}cout << p - 1;;
+	}cout << p - 1;
 	return 0;
 }
